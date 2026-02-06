@@ -107,7 +107,7 @@ Remember: Technology alone isn’t enough. Awareness and vigilance are your firs
 
 Social engineering attacks are dangerous because they exploit human psychology, not just technical weaknesses. Real world breaches from Sony to Target show that anyone can be targeted. Organizations that combine training, policies, and smart technology stand the best chance of preventing costly breaches.
 
-Protecting information isn’t just IT’s job—it’s everyone’s responsibility.
+Protecting information isn’t just IT’s job it’s everyone’s responsibility.
 
 
 ## References
