@@ -3,7 +3,7 @@
 
 # Introduction
 
-In today’s digital world, hackers don’t always need complex software to break into systems—they often just exploit human trust. Social engineering attacks trick people into revealing sensitive information, clicking on malicious links, or performing actions that compromise security. Understanding these attacks and how to prevent them is essential for both individuals and organizations.
+In today’s digital world, hackers don’t always need complex software to break into systems they often just exploit human trust. Social engineering attacks trick people into revealing sensitive information, clicking on malicious links, or performing actions that compromise security. Understanding these attacks and how to prevent them is essential for both individuals and organizations.
 
 # Common Types of Social Engineering Attacks
 
@@ -105,12 +105,12 @@ Remember: Technology alone isn’t enough. Awareness and vigilance are your firs
 
 # Conclusion
 
-Social engineering attacks are dangerous because they exploit human psychology, not just technical weaknesses. Real-world breaches—from Sony to Target—show that anyone can be targeted. Organizations that combine training, policies, and smart technology stand the best chance of preventing costly breaches.
+Social engineering attacks are dangerous because they exploit human psychology, not just technical weaknesses. Real world breaches from Sony to Target show that anyone can be targeted. Organizations that combine training, policies, and smart technology stand the best chance of preventing costly breaches.
 
 Protecting information isn’t just IT’s job—it’s everyone’s responsibility.
 
 
-References
+# References
 
 Hadnagy, C. (2018). Social Engineering: The Science of Human Hacking. Wiley.
 
