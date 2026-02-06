@@ -7,14 +7,13 @@ Social Engineering Attacks: Research Report
 In today’s digital world, hackers don’t always need complex software to break into systems—they often just exploit human trust. Social engineering attacks trick people into revealing sensitive information, clicking on malicious links, or performing actions that compromise security. Understanding these attacks and how to prevent them is essential for both individuals and organizations.
 
 2. Common Types of Social Engineering Attacks
-| Attack Type         | How It Works                                                                                                       | Real-World Example                                                | Impact                                                         |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | -------------------------------------------------------------- |
-| **Phishing**        | Attackers send fake emails or messages pretending to be legitimate sources to steal credentials or financial info. | 2016 Democratic National Committee email leaks.                   | Sensitive data exposed, political fallout.                     |
-| **Pretexting**      | Attackers create a fake scenario to trick someone into revealing info or performing actions.                       | Someone posing as IT support asks an employee for their password. | Data breaches, financial loss, reputational damage.            |
-| **Baiting**         | Attackers tempt victims with an enticing offer (downloads, USB drives) that installs malware.                      | USB drives labeled “Salary Info” left in office parking lots.     | Malware infections, system compromise, operational disruption. |
-| **Tailgating**      | Gaining physical access by following authorized personnel into secure areas.                                       | A visitor slips into a server room behind an employee.            | Unauthorized access, theft of sensitive data.                  |
-| **Quizzes/Surveys** | Online forms that seem harmless but collect personal info for attacks.                                             | Fake “fun” surveys asking for birthdates and passwords.           | Identity theft, account takeovers.                             |
-
+| Attack Type      | How It Works                                                                 | Real-World Example                                     | Impact                                      |
+|-----------------|-----------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------------------|
+| **Phishing**     | Attackers send fake emails or messages pretending to be legitimate sources to steal credentials or financial info. | 2016 Democratic National Committee email leaks       | Sensitive data exposed, political fallout. |
+| **Pretexting**   | Attackers create a fake scenario to trick someone into revealing info or performing actions. | Someone posing as IT support asks an employee for their password | Data breaches, financial loss, reputational damage |
+| **Baiting**      | Attackers tempt victims with an enticing offer (downloads, USB drives) that installs malware. | USB drives labeled “Salary Info” left in office parking lots | Malware infections, system compromise, operational disruption |
+| **Tailgating**   | Gaining physical access by following authorized personnel into secure areas. | A visitor slips into a server room behind an employee | Unauthorized access, theft of sensitive data |
+| **Quizzes/Surveys** | Online forms that seem harmless but collect personal info for attacks. | Fake “fun” surveys asking for birthdates and passwords | Identity theft, account takeovers |
 
 3. Case Studies & Their Impact
 3.1 Sony Pictures Hack (2014)
