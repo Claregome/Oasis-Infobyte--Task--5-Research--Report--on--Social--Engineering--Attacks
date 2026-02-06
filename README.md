@@ -7,13 +7,37 @@ Social Engineering Attacks: Research Report
 In today’s digital world, hackers don’t always need complex software to break into systems—they often just exploit human trust. Social engineering attacks trick people into revealing sensitive information, clicking on malicious links, or performing actions that compromise security. Understanding these attacks and how to prevent them is essential for both individuals and organizations.
 
 2. Common Types of Social Engineering Attacks
-| Attack Type      | How It Works                                                                 | Real-World Example                                     | Impact                                      |
-|-----------------|-----------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------------------|
-| **Phishing**     | Attackers send fake emails or messages pretending to be legitimate sources to steal credentials or financial info. | 2016 Democratic National Committee email leaks       | Sensitive data exposed, political fallout. |
-| **Pretexting**   | Attackers create a fake scenario to trick someone into revealing info or performing actions. | Someone posing as IT support asks an employee for their password | Data breaches, financial loss, reputational damage |
-| **Baiting**      | Attackers tempt victims with an enticing offer (downloads, USB drives) that installs malware. | USB drives labeled “Salary Info” left in office parking lots | Malware infections, system compromise, operational disruption |
-| **Tailgating**   | Gaining physical access by following authorized personnel into secure areas. | A visitor slips into a server room behind an employee | Unauthorized access, theft of sensitive data |
-| **Quizzes/Surveys** | Online forms that seem harmless but collect personal info for attacks. | Fake “fun” surveys asking for birthdates and passwords | Identity theft, account takeovers |
+
+2.1 Phishing
+
+Phishing is the most common type of social engineering attack, where attackers send fraudulent messages (usually emails) to trick recipients into providing sensitive information such as login credentials or financial details.
+
+Example: Emails disguised as official communication from banks or companies asking users to “verify” their accounts.
+
+Impact: The 2016 phishing attack on the Democratic National Committee resulted in leaked emails that affected political outcomes.
+
+2.2 Pretexting
+
+Pretexting involves creating a fabricated scenario to trick individuals into revealing private information or performing actions. Attackers often pose as authority figures or trusted personnel.
+
+Example: An attacker calls an employee claiming to be from the IT department, asking for their password to "resolve a system issue."
+
+Impact: Pretexting attacks have led to data breaches in financial institutions, costing millions in recovery and reputation damage.
+
+2.3 Baiting
+
+Baiting lures victims with an attractive offer, enticing them to perform actions that compromise security, such as downloading malware.
+
+Example: USB drives labeled “Confidential Salary Info” left in office spaces; when inserted, they install malware.
+
+Impact: Baiting attacks caused the Stuxnet malware to infiltrate critical infrastructure systems, demonstrating the risks of physical and digital baiting.
+
+2.4 Other Notable Attacks
+
+Tailgating: Gaining unauthorized physical access by following an authorized person.
+
+Quizzes and Surveys: Online forms designed to collect personal data for later attacks.
+
 
 3. Case Studies & Their Impact
 3.1 Sony Pictures Hack (2014)
