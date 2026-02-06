@@ -1,11 +1,11 @@
 
 # Social Engineering Attacks: Research Report
 
-1. Introduction
+# Introduction
 
 In today’s digital world, hackers don’t always need complex software to break into systems—they often just exploit human trust. Social engineering attacks trick people into revealing sensitive information, clicking on malicious links, or performing actions that compromise security. Understanding these attacks and how to prevent them is essential for both individuals and organizations.
 
-2. Common Types of Social Engineering Attacks
+# Common Types of Social Engineering Attacks
 
 2.1 Phishing
 
@@ -38,7 +38,7 @@ Tailgating: Gaining unauthorized physical access by following an authorized pers
 Quizzes and Surveys: Online forms designed to collect personal data for later attacks.
 
 
-3. Case Studies & Their Impact
+# Case Studies & Their Impact
 
 3.1 Sony Pictures Hack (2014)
 
@@ -67,7 +67,7 @@ Result: Compromised SecurID tokens affected multiple clients relying on RSA’s 
 Lesson: Even security companies are vulnerable if human factors are ignored.
 
 
-4. How to Prevent Social Engineering Attacks
+# How to Prevent Social Engineering Attacks
 
    
 4.1 Train & Educate Employees
@@ -103,7 +103,7 @@ Network monitoring to spot unusual behavior.
 Remember: Technology alone isn’t enough. Awareness and vigilance are your first line of defense.
 
 
-5. Conclusion
+# Conclusion
 
 Social engineering attacks are dangerous because they exploit human psychology, not just technical weaknesses. Real-world breaches—from Sony to Target—show that anyone can be targeted. Organizations that combine training, policies, and smart technology stand the best chance of preventing costly breaches.
 
