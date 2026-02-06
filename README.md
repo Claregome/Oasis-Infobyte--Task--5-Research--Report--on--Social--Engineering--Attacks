@@ -1,6 +1,5 @@
-# Oasis-Infobyte--Task--5-Research--Report--on--Social--Engineering--Attacks
 
-Social Engineering Attacks: Research Report
+# Social Engineering Attacks: Research Report
 
 1. Introduction
 
@@ -40,6 +39,7 @@ Quizzes and Surveys: Online forms designed to collect personal data for later at
 
 
 3. Case Studies & Their Impact
+
 3.1 Sony Pictures Hack (2014)
 
 Hackers sent phishing emails to employees, gaining access to internal systems.
@@ -47,6 +47,7 @@ Hackers sent phishing emails to employees, gaining access to internal systems.
 Result: Leaked unreleased films, employee data, and sensitive company emails.
 
 Lesson: Even large organizations with good security can fall victim if employees are targeted.
+
 
 3.2 Target Data Breach (2013)
 
@@ -56,6 +57,7 @@ Result: Over 40 million credit/debit card accounts compromised, costing Target $
 
 Lesson: Social engineering can target weak links in the supply chain, not just your own employees.
 
+
 3.3 RSA Security Breach (2011)
 
 Employees were targeted via phishing emails that looked legitimate.
@@ -64,26 +66,33 @@ Result: Compromised SecurID tokens affected multiple clients relying on RSA’s 
 
 Lesson: Even security companies are vulnerable if human factors are ignored.
 
+
 4. How to Prevent Social Engineering Attacks
+
+   
 4.1 Train & Educate Employees
 
 Run regular awareness sessions and simulations.
 
 Teach employees to verify requests before acting.
 
+
 4.2 Implement Multi-Factor Authentication (MFA)
 
 MFA reduces the risk if passwords are stolen.
 
+
 4.3 Use Clear Verification Protocols
 
 Always confirm sensitive requests through a second channel (e.g., call, not just email).
+
 
 4.4 Enforce Strong Cybersecurity Policies
 
 Guidelines for handling emails, passwords, and confidential data.
 
 Encourage employees to report suspicious activities immediately.
+
 
 4.5 Apply Technical Controls
 
@@ -93,11 +102,13 @@ Network monitoring to spot unusual behavior.
 
 Remember: Technology alone isn’t enough. Awareness and vigilance are your first line of defense.
 
+
 5. Conclusion
 
 Social engineering attacks are dangerous because they exploit human psychology, not just technical weaknesses. Real-world breaches—from Sony to Target—show that anyone can be targeted. Organizations that combine training, policies, and smart technology stand the best chance of preventing costly breaches.
 
 Protecting information isn’t just IT’s job—it’s everyone’s responsibility.
+
 
 References
 
